@@ -11,7 +11,7 @@ This is a wordpress Plugin I wrote to place the publish button in the toolbar be
 ### How to install this
 #### If you don't have a Wordpress Instance
 - Clone this Repo
-- Download and install docker
+- Download and install Docker
 - Open Terminal
 - Navigate to the folder this is located in
 - Type `docker-compose up -d` and press enter
